@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300&family=DM+Serif+Display:ital@1&family=Epilogue:wght@100;400&family=Inika&family=Inria+Serif:ital,wght@1,700&family=Inter&family=Itim&family=Playball&family=Poppins:wght@100&family=Roboto:wght@100;700&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: #191616;
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;  
+    box-sizing: border-box;
+    height: 100vh;
+}
+.w3 {
+   background-color: transparent;
+}
+nav .w3 a {
+    margin-right: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: bold; 
+}
+/* Home */
+.home img {
+    width: 23.6rem;
+    position: absolute;
+    top: 13%;
+    left: 70%;
+}
+.home h1 {
+    position: absolute;
+    right: 80%;
+    top: 25%;
+    font-size: 5rem;
+    font-family: 'Inter', sans-serif;
+}
+.home h2 {
+    position: absolute;
+    right: 50%;
+    top: 40%;
+    font-size: 5rem;
+    font-family: 'Inter', sans-serif;
+}
+.home h3 {
+    position: absolute;
+    right: 60%;
+    top: 55%;
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif;
+}
+/* About  */
+.about img {
+    width: 23.6rem;
+    position: absolute;
+    top: 13%;
+    left: 70%;
+}
+.about h2{
+    position: absolute;
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+    top: 15%;
+    left: 5%;
+    color: #61D0C2;
+}
+.about h3{
+    position: absolute;
+    font-size: 1rem;
+    transform: translateX(-50%);
+    font-family: 'Inter', sans-serif;
+    top: 30%;
+    left: 35%;
+}
+.education h1 {
+    position: absolute;
+    font-size: 1.5rem;
+    font-family: 'Inter', sans-serif;
+    top: 55%;
+    left: 2.5%;
+    color: #61D0C2;
+}
+.education h2 {
+    position: absolute;
+    font-size: 1rem;
+    transform: translateX(-50%);
+    font-family: 'Inter', sans-serif;
+    top: 61%;
+    left: 35%;
+}
+.hobbies h1 {
+    position: absolute;
+    font-size: 1.5rem;
+    font-family: 'Inter', sans-serif;
+    top: 75%;
+    left: 2.5%;
+    color: #61D0C2;
+}
+.hobbies h2 {
+    position: absolute;
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+    top: 83%;
+    left: 2.5%;
+}
+/* Project */
+.project img {
+    width: 12rem;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.project h1 {
+    position: absolute;
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+    top: 15%;
+    left: 10%;
+    color: #61D0C2;
+}
+.project1 img {
+    width: 15rem;
+    height: 30%;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+.project2 img {
+    width: 15rem;
+    position: absolute;
+    top: 30%;
+    height: 30%;
+    left: 43%;
+}
+.project3 img {
+    width: 15rem;
+    position: absolute;
+    top: 30%;
+    height: 30%;
+    left: 61%;
+}
+.project4 img {
+    width: 15rem;
+    position: absolute;
+    top: 30%;
+    height: 30%;
+    left: 79%;
+}
+/* contact */
+.contacts i {
+    font-size: 4rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+    color: #61D0C2;
+}
+.contacts h1 {
+    position: absolute;
+    top: 60%;
+    right: 57%;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.contacts h3 {
+    position: absolute;
+    top: 30%;
+    right: 42%;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.contacts h4 {
+    position: absolute;
+    top: 45%;
+    right: 63%;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.contacts h2 {
+    position: absolute;
+    font-size: 3rem;
+    font-family: 'Epilogue', sans-serif;
+    top: 15%;
+    font-weight: bold;
+    left: 5.5%;
+    color: #61D0C2;
+}
